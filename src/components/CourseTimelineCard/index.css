@@ -1,0 +1,21 @@
+.row-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.list-item-container {
+  list-style-type: none;
+  margin: 5px;
+  background-color: rgba(144, 135, 135, 0.959);
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 0px;
+}

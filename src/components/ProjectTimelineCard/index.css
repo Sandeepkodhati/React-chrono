@@ -1,0 +1,12 @@
+.project-image {
+  width: 100%;
+}
+
+.link {
+  color: #0967d2;
+  font-size: 15px;
+  font-family: 'Roboto';
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+}
